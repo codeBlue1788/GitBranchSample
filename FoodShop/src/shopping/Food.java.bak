@@ -1,0 +1,18 @@
+package shopping;
+
+import java.io.Serializable;
+
+public class Food implements Serializable {
+
+	private String com_Name;
+	private byte[] com_Pic;
+	private String com_Unit;
+	private int com_Price;
+	private int quantity;
+	
+	public Food () {
+		com_Name ="";
+		
+	}
+	
+}
