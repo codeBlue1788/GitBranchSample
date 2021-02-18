@@ -10,7 +10,7 @@ public class MainApp {
 		//This is version of Math
 		int total = Math.add(5, 3);
 		System.out.println(total);
-		
+		System.out.println();
 	}
 
 }
